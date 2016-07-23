@@ -1,2 +1,2 @@
- git is a verson control system
- git is a free softword
+ git is a distributed version control system
+ git is a free software
